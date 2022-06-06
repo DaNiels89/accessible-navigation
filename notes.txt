@@ -1,0 +1,10 @@
+- Visual Studio Code with plugin Live server
+- Create index.html and use ! (Emmet)
+- Create src folder with css and js and connect
+- How many HTML Elements are there? https://codepen.io/plfstr/full/zYqQeRw
+- Accessibility: Header, main, footer
+- Layout: Body -> Grid-template Areas with min-height 100vh
+- HTML: class="no-js"
+- Possible to add <no-script> message, with meta tag you can redirect to a new page
+- Nav tag in header tag
+
